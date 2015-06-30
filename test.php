@@ -43,7 +43,7 @@ if(@$_POST['email'])
 <?php
 $_subscribe=array();
 
-$mail = @$_GET['email'];
+$mail = @$_REQUEST['email'];
 $code = @$_GET['code'];
 
 $_subscribe["confirmation_code"] = md5("code".$mail);
