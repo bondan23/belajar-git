@@ -7,6 +7,11 @@
 		return $tanggal;
 	}
 	
+	function bondan()
+	{
+		return TRUE;
+	}
+	
 	function get_namabulan($bulan) {
 		//Checking
 		switch($bulan) {
