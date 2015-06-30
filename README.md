@@ -1,2 +1,2 @@
 # belajar-git
-Belajar Git
+Belajar Menggunakan Versioning dengan Git
