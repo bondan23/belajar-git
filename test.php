@@ -6,7 +6,7 @@
 <?php
 $_subscribe=array();
 
-$mail = @$_REQUEST['email'];
+$mail = @$_GET['email'];
 $code = @$_GET['code'];
 
 $_subscribe["confirmation_code"] = md5("code".$mail);
