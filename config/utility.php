@@ -6,7 +6,7 @@
 		$tanggal="$hari $bulan $tahun";
 		return $tanggal;
 	}
-	error_reporting(0);
+	
 	function get_namabulan($bulan) {
 		//Checking
 		switch($bulan) {
