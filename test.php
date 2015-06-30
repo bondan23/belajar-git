@@ -2,20 +2,6 @@
 
 //jika di tambahin @ maka error tidak akan di tampilkan
 
-
-function validemail($mail)
-{
-	define('valid','bondan@bondan.com');
-	
-	if($mail !== valid)
-	{
-		return FALSE;
-	}
-	else 
-	{
-		return TRUE;
-	}
-}
 /*
 if(@$_POST['email'])
 {
