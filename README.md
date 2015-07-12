@@ -1,2 +1,2 @@
 # belajar-git
-Belajar Menggunakan Versioning dengan Git
+Belajar Menggunakan Versioning dengan Git (Update Readme)
