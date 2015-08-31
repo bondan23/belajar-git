@@ -26,6 +26,6 @@ if(isset($_GET['code']))
 {
 	if($a === $code)
 	{
-		echo "<br> Anda Sudah aktif";
+		echo "<br> Anda Sudah aktif bro/sis";
 	}
 }
