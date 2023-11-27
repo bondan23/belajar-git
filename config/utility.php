@@ -106,4 +106,8 @@
                 break;
         }
     }
+
+	function helloWorld() {
+		echo "HELLO WORLD";
+	}
 ?>
