@@ -2,4 +2,4 @@
 Belajar Menggunakan Versioning dengan Git (Update Readme)
 ini di update pada tanggal 02/10/2015
 
-Update lagi Readme
+Update lagi Readme -nya
